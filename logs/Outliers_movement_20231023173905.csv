@@ -1,0 +1,13 @@
+,VIDEO,ANIMAL,BODY-PART,CORRECTION COUNT,CORRECTION PCT
+0,test,Animal_1,head,189,1.0
+1,test,Animal_1,center,189,1.0
+2,test,Animal_1,leftleg,189,1.0
+3,test,Animal_1,rightleg,188,0.994709
+4,video-20231012-045518-7502573c,Animal_1,head,210,1.0
+5,video-20231012-045518-7502573c,Animal_1,center,210,1.0
+6,video-20231012-045518-7502573c,Animal_1,leftleg,210,1.0
+7,video-20231012-045518-7502573c,Animal_1,rightleg,210,1.0
+8,video-20231012-055330-3c9be964,Animal_1,head,147,1.0
+9,video-20231012-055330-3c9be964,Animal_1,center,147,1.0
+10,video-20231012-055330-3c9be964,Animal_1,leftleg,147,1.0
+11,video-20231012-055330-3c9be964,Animal_1,rightleg,147,1.0

@@ -1,0 +1,25 @@
+,Video,Animal,Body-part,Corrections,Correction ratio (%)
+0,test,Animal_1,head,0,0.0
+1,test,Animal_1,center,0,0.0
+2,test,Animal_1,leftleg,0,0.0
+3,test,Animal_1,rightleg,0,0.0
+4,test4,Animal_1,head,0,0.0
+5,test4,Animal_1,center,0,0.0
+6,test4,Animal_1,leftleg,0,0.0
+7,test4,Animal_1,rightleg,0,0.0
+8,try2,Animal_1,head,0,0.0
+9,try2,Animal_1,center,0,0.0
+10,try2,Animal_1,leftleg,0,0.0
+11,try2,Animal_1,rightleg,0,0.0
+12,try3,Animal_1,head,0,0.0
+13,try3,Animal_1,center,0,0.0
+14,try3,Animal_1,leftleg,0,0.0
+15,try3,Animal_1,rightleg,0,0.0
+16,video-20231012-045518-7502573c,Animal_1,head,0,0.0
+17,video-20231012-045518-7502573c,Animal_1,center,0,0.0
+18,video-20231012-045518-7502573c,Animal_1,leftleg,0,0.0
+19,video-20231012-045518-7502573c,Animal_1,rightleg,0,0.0
+20,video-20231012-055330-3c9be964,Animal_1,head,0,0.0
+21,video-20231012-055330-3c9be964,Animal_1,center,0,0.0
+22,video-20231012-055330-3c9be964,Animal_1,leftleg,0,0.0
+23,video-20231012-055330-3c9be964,Animal_1,rightleg,0,0.0
