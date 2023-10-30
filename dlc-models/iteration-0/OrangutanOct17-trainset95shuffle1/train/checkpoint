@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\tchew\\Desktop\\test2-Dylan-2023-09-05\\Orangutan-Dylan-2023-10-17\\dlc-models\\iteration-0\\OrangutanOct17-trainset95shuffle1\\train\\snapshot-400"
+all_model_checkpoint_paths: "C:\\Users\\tchew\\Desktop\\test2-Dylan-2023-09-05\\Orangutan-Dylan-2023-10-17\\dlc-models\\iteration-0\\OrangutanOct17-trainset95shuffle1\\train\\snapshot-400"
